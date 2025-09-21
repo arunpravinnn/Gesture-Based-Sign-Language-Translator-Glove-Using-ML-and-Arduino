@@ -125,4 +125,7 @@ The system works through **three layers**:
 
 ---
 
+### Process Flow Diagram
+![Process Flow](image.png)
+
 
