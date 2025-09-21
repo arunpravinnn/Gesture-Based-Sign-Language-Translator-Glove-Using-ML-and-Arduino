@@ -2,6 +2,8 @@ It can be very difficult for people who use sign language to talk with people wh
 While solutions like hiring a professional interpreter exist, they are expensive and not always available. Phone apps that use a camera to recognize signs can also be tricky to use, they might not work in bad lighting, and they make you focus on a screen instead of the person in front of you.
 Our project aims to fix this with a different idea: a simple, low-cost glove that translates hand signs into spoken words. We designed a unique set of signs that are very easy for the glove's sensors to read accurately. By using machine learning that trains specifically on the user's hand, our goal is to create a reliable, personal translator that is easy to carry and natural to use in any conversation.
 
+This is a coursework submission for Procedural Programming Using C `(23CSE201)`. The work was done together by Arun Pravin A P, B H Harshith Varma, Monish U, and Tejas Srivastava, in the Third Semester of our B.Tech Course.
+
 # Hardware & Software Requirements  
 
 ## Hardware Components  
@@ -63,6 +65,7 @@ The system works through **three layers**:
   (Thumb, Index, Middle, Ring, Pinky → T, I, M, R, P)
 
 ### Final Custom Alphabet (22 Letters)
+<p align="center">
 
 | Char | Description | Finger State (T,I,M,R,P) |
 |------|-------------|--------------------------|
@@ -88,10 +91,12 @@ The system works through **three layers**:
 | V | Thumb, Middle, Ring bent | B, S, B, B, S |
 | W | Thumb, Index, Middle bent | B, B, B, S, S |
 | Y | Thumb and Pinky straight | S, B, B, B, S |
+</p>
 
 ---
 
 ### Commands and Custom Words (10 Slots)
+<p align="center">
 
 | Word/Command | Description | Finger State (T,I,M,R,P) |
 |--------------|-------------|--------------------------|
@@ -105,6 +110,8 @@ The system works through **three layers**:
 | THE | Thumb, Middle, Ring bent | B, S, B, B, S |
 | AMRITA | Middle finger straight, others bent | B, B, S, B, B |
 | HELP | Thumb & Middle straight, others bent | S, B, S, B, B |
+
+</p>
 
 ---
 
