@@ -2,7 +2,7 @@ It can be very difficult for people who use sign language to talk with people wh
 While solutions like hiring a professional interpreter exist, they are expensive and not always available. Phone apps that use a camera to recognize signs can also be tricky to use, they might not work in bad lighting, and they make you focus on a screen instead of the person in front of you.
 Our project aims to fix this with a different idea: a simple, low-cost glove that translates hand signs into spoken words. We designed a unique set of signs that are very easy for the glove's sensors to read accurately. By using machine learning that trains specifically on the user's hand, our goal is to create a reliable, personal translator that is easy to carry and natural to use in any conversation.
 
-This is a coursework submission for Procedural Programming Using C `(23CSE201)`. The work was done together by Arun Pravin A P, B H Harshith Varma, Monish U, and Tejas Srivastava, in the Third Semester of our B.Tech Course.
+# This is a coursework submission for Procedural Programming Using C `(23CSE201)`. The work was done together by Arun Pravin A P, B H Harshith Varma, Monish U, and Tejas Srivastava, in the Third Semester of our B.Tech Course.
 
 # Hardware & Software Requirements  
 
